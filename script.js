@@ -3,11 +3,11 @@ document.addEventListener('DOMContentLoaded', () => {
     const ownerPhoneElement = document.querySelector('#owner-phone span');
     const vetInfoElement = document.querySelector('#vet-info span');
 
-    // Dummy data
+    // Sneaky data
     const petData = {
-        name: 'Buddy',
-        ownerPhone: '+123456789',
-        vetInfo: 'Dr. Jane Doe, Vet Clinic, (123) 456-7890'
+        name: 'Sneaky',
+        ownerPhone: '+2539730573',
+        vetInfo: 'Arroyo Veterinary Clinic, (575) 524-0900'
     };
 
     // Populate the pet info
