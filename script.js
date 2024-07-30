@@ -8,7 +8,6 @@ document.addEventListener('DOMContentLoaded', () => {
     const petData = {
         name: 'Sneaky',
         ownerPhone: '+2539730573',
-        qrInfo: "",
         vetInfo: 'Arroyo Veterinary Clinic (575) 524-0900'
     };
 
