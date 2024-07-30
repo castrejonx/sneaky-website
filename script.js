@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
     const petNameElement = document.querySelector('#pet-name span');
     const ownerPhoneElement = document.querySelector('#owner-phone span');
-    const qrInfoElement = document.querySelector('#owner-phone span');
+    const qrInfoElement = document.querySelector('#qr-info span');
     const vetInfoElement = document.querySelector('#vet-info span');
 
     // Sneaky data
