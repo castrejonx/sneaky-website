@@ -8,8 +8,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const petData = {
         name: 'Sneaky',
         ownerPhone: '+2539730573',
-        qrInfo: "Sneaky''s owners have already been alerted that her QR code has been scanned.",
-        vetInfo: 'Arroyo Veterinary Clinic, (575) 524-0900'
+        qrInfo: "Sneaky's owners have already been alerted that her QR code has been scanned.",
+        vetInfo: 'Arroyo Veterinary Clinic (575) 524-0900'
     };
 
     // Populate the pet info
